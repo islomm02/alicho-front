@@ -1,0 +1,29 @@
+{
+    "uz": {
+        "pageTitle": "Facebook sozlamalari", 
+        "maintenanceMode": "Ta'mirlash rejimi",
+        "activeStatus": "Faol - Ta'mirlash rejimida",
+        "inactiveStatus": "Nofaol - Normal ishlaydi",
+        "enableMaintenance": "Ta'mirlash rejimini yoqish",
+        "disableMaintenance": "Ta'mirlash rejimini o'chirish",
+        "maintenanceDescription": "Ta'mirlash rejimi yoqilganda foydalanuvchilar tizimga kira olmaydi"
+    },
+    "ru": {
+        "pageTitle": "Настройки Facebook",
+        "maintenanceMode": "Режим обслуживания", 
+        "activeStatus": "Активен - В режиме обслуживания",
+        "inactiveStatus": "Неактивен - Работает нормально",
+        "enableMaintenance": "Включить режим обслуживания",
+        "disableMaintenance": "Отключить режим обслуживания",
+        "maintenanceDescription": "Когда режим обслуживания включен, пользователи не могут войти в систему"
+    },
+    "en": {
+        "pageTitle": "Facebook Settings",
+        "maintenanceMode": "Maintenance Mode",
+        "activeStatus": "Active - In maintenance mode", 
+        "inactiveStatus": "Inactive - Working normally",
+        "enableMaintenance": "Enable maintenance mode",
+        "disableMaintenance": "Disable maintenance mode",
+        "maintenanceDescription": "When maintenance mode is enabled, users cannot access the system"
+    }
+}

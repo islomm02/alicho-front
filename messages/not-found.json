@@ -1,0 +1,44 @@
+{
+    "uz": {
+        "title": "404",
+        "subtitle": "Sahifa topilmadi",
+        "description": "Kechirasiz, siz qidirayotgan sahifa mavjud emas yoki ko'chirilgan.",
+        "homeButton": "Bosh sahifaga qaytish",
+        "searchPlaceholder": "Qidiruv...",
+        "helpText": "Yoki bizning asosiy sahifalarimizdan birini tanlang:",
+        "popularLinks": {
+            "dashboard": "Boshqaruv paneli",
+            "settings": "Sozlamalar", 
+            "help": "Yordam"
+        },
+        "contactSupport": "Qo'llab-quvvatlash bilan bog'lanish"
+    },
+    "ru": {
+        "title": "404",
+        "subtitle": "Страница не найдена",
+        "description": "Извините, страница, которую вы ищете, не существует или была перемещена.",
+        "homeButton": "Вернуться на главную",
+        "searchPlaceholder": "Поиск...",
+        "helpText": "Или выберите одну из наших основных страниц:",
+        "popularLinks": {
+            "dashboard": "Панель управления",
+            "settings": "Настройки",
+            "help": "Помощь"
+        },
+        "contactSupport": "Связаться с поддержкой"
+    },
+    "en": {
+        "title": "404",
+        "subtitle": "Page Not Found",
+        "description": "Sorry, the page you are looking for doesn't exist or has been moved.",
+        "homeButton": "Back to Home",
+        "searchPlaceholder": "Search...",
+        "helpText": "Or choose one of our main pages:",
+        "popularLinks": {
+            "dashboard": "Dashboard",
+            "settings": "Settings",
+            "help": "Help"
+        },
+        "contactSupport": "Contact Support"
+    }
+}

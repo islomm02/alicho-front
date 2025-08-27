@@ -1,0 +1,50 @@
+{
+    "uz": {
+        "aiHistory": "AI tarixi",
+        "crmSettings": "CRM sozlamalari",
+        "users": "Foydalanuvchilar",
+        "chatMessages": "Chat xabarlari",
+        "customers": "Mijozlar",
+        "embeddingResources": "Embedding resurslari",
+        "settings": "Sozlamalar",
+        "taskResources": "Vazifa resurslari",
+        "logout": "Chiqish",
+        "confirmLogout": "Chiqishni tasdiqlang",
+        "logoutConfirmMessage": "Haqiqatan ham tizimdan chiqmoqchimisiz?",
+        "cancel": "Bekor qilish",
+        "yesLogout": "Ha, chiqish",
+        "selectLanguage": "Tilni tanlang"
+    },
+    "ru": {
+        "aiHistory": "История AI",
+        "crmSettings": "Настройки CRM",
+        "users": "Пользователи",
+        "chatMessages": "Сообщения чата",
+        "customers": "Клиенты",
+        "embeddingResources": "Embedding ресурсы",
+        "settings": "Настройки",
+        "taskResources": "Ресурсы задач",
+        "logout": "Выйти",
+        "confirmLogout": "Подтвердите выход",
+        "logoutConfirmMessage": "Вы действительно хотите выйти из системы?",
+        "cancel": "Отмена",
+        "yesLogout": "Да, выйти",
+        "selectLanguage": "Выберите язык"
+    },
+    "en": {
+        "aiHistory": "AI history",
+        "crmSettings": "CRM settings",
+        "users": "Users",
+        "chatMessages": "Chat messages",
+        "customers": "Customers",
+        "embeddingResources": "Embedding Resources",
+        "settings": "Settings",
+        "taskResources": "Task Resources",
+        "logout": "Logout",
+        "confirmLogout": "Confirm logout",
+        "logoutConfirmMessage": "Are you sure you want to logout?",
+        "cancel": "Cancel",
+        "yesLogout": "Yes, logout",
+        "selectLanguage": "Select language"
+    }
+}

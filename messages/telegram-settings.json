@@ -1,0 +1,38 @@
+{
+    "uz": {
+        "pageTitle": "Telegram sozlamalari",
+        "chatIdTitle": "Telegram Chat ID",
+        "botTokenTitle": "Telegram Bot Token", 
+        "chatIdDescription": "Bot bilan bog'lanish uchun chat ID",
+        "botTokenDescription": "Bot avtorizatsiyasi uchun maxfiy token",
+        "chatIdPlaceholder": "Chat ID ni kiriting...",
+        "botTokenPlaceholder": "Bot tokenini kiriting...",
+        "fieldRequired": "Maydon bo'sh bo'lishi mumkin emas",
+        "saveButton": "Saqlash",
+        "testConnectionButton": "Ulanishni tekshirish"
+    },
+    "ru": {
+        "pageTitle": "Настройки Telegram",
+        "chatIdTitle": "ID чата Telegram",
+        "botTokenTitle": "Токен бота Telegram",
+        "chatIdDescription": "ID чата для подключения к боту", 
+        "botTokenDescription": "Секретный токен для авторизации бота",
+        "chatIdPlaceholder": "Введите ID чата...",
+        "botTokenPlaceholder": "Введите токен бота...",
+        "fieldRequired": "Поле не может быть пустым",
+        "saveButton": "Сохранить",
+        "testConnectionButton": "Проверить соединение"
+    },
+    "en": {
+        "pageTitle": "Telegram Settings",
+        "chatIdTitle": "Telegram Chat ID",
+        "botTokenTitle": "Telegram Bot Token",
+        "chatIdDescription": "Chat ID for connecting to the bot",
+        "botTokenDescription": "Secret token for bot authorization", 
+        "chatIdPlaceholder": "Enter chat ID...",
+        "botTokenPlaceholder": "Enter bot token...",
+        "fieldRequired": "Field cannot be empty",
+        "saveButton": "Save",
+        "testConnectionButton": "Test Connection"
+    }
+}

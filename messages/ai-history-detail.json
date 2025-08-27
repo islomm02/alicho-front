@@ -1,0 +1,41 @@
+{
+    "uz": {
+        "notFound": "Malumot topilmadi",
+        "companyInfo": "Kompaniya #${id}",
+        "modelName": "Model nomi:",
+        "inputTokens": "Kiruvchi tokenlar:",
+        "outputTokens": "Chiquvchi tokenlar:", 
+        "totalCost": "Umumiy xarajat:",
+        "backButton": "Orqaga",
+        "conversationDetails": "Suhbat tafsilotlari",
+        "requestTime": "So'rov vaqti:",
+        "responseTime": "Javob vaqti:",
+        "status": "Holat:"
+    },
+    "ru": {
+        "notFound": "Информация не найдена",
+        "companyInfo": "Компания #${id}",
+        "modelName": "Название модели:",
+        "inputTokens": "Входящие токены:",
+        "outputTokens": "Исходящие токены:",
+        "totalCost": "Общая стоимость:",
+        "backButton": "Назад", 
+        "conversationDetails": "Детали разговора",
+        "requestTime": "Время запроса:",
+        "responseTime": "Время ответа:",
+        "status": "Статус:"
+    },
+    "en": {
+        "notFound": "Information not found",
+        "companyInfo": "Company #${id}",
+        "modelName": "Model Name:",
+        "inputTokens": "Input Tokens:",
+        "outputTokens": "Output Tokens:",
+        "totalCost": "Total Cost:",
+        "backButton": "Back",
+        "conversationDetails": "Conversation Details", 
+        "requestTime": "Request Time:",
+        "responseTime": "Response Time:",
+        "status": "Status:"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "uz": {
+        "pageTitle": "Chat xabarlari",
+        "tableHeaders": {
+            "id": "ID",
+            "userId": "Foydalanuvchi ID",
+            "userText": "Foydalanuvchi matni",
+            "reply": "Javob",
+            "actions": "Amallar"
+        },
+        "viewButton": "Ko'rish",
+        "editButton": "Tahrirlash", 
+        "deleteButton": "O'chirish",
+        "searchPlaceholder": "Xabar qidirish...",
+        "noMessages": "Xabarlar topilmadi",
+        "loadingMessages": "Xabarlar yuklanmoqda...",
+        "deleteConfirm": "Ushbu xabarni o'chirishni xohlaysizmi?",
+        "messageDeleted": "Xabar muvaffaqiyatli o'chirildi"
+    },
+    "ru": {
+        "pageTitle": "Сообщения чата",
+        "tableHeaders": {
+            "id": "ID", 
+            "userId": "ID пользователя",
+            "userText": "Текст пользователя",
+            "reply": "Ответ",
+            "actions": "Действия"
+        },
+        "viewButton": "Просмотр",
+        "editButton": "Редактировать",
+        "deleteButton": "Удалить", 
+        "searchPlaceholder": "Поиск сообщения...",
+        "noMessages": "Сообщения не найдены",
+        "loadingMessages": "Загрузка сообщений...",
+        "deleteConfirm": "Вы хотите удалить это сообщение?",
+        "messageDeleted": "Сообщение успешно удалено"
+    },
+    "en": {
+        "pageTitle": "Chat Messages",
+        "tableHeaders": {
+            "id": "ID",
+            "userId": "USER ID", 
+            "userText": "USER TEXT",
+            "reply": "REPLY",
+            "actions": "Actions"
+        },
+        "viewButton": "View",
+        "editButton": "Edit",
+        "deleteButton": "Delete",
+        "searchPlaceholder": "Search message...",
+        "noMessages": "No messages found",
+        "loadingMessages": "Loading messages...",
+        "deleteConfirm": "Do you want to delete this message?",
+        "messageDeleted": "Message deleted successfully"
+    }
+}
